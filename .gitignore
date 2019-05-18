@@ -1,0 +1,2 @@
+# ignore the .DS_store file added by MacOS
+.DS_Store
